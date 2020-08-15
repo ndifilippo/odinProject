@@ -1,0 +1,1 @@
+This is me, Nick, following the Odin Project to learn how to develop websites.
